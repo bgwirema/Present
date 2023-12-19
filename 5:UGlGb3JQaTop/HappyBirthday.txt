@@ -7,5 +7,5 @@ This picture is your present if you can figure out what is special about it :)
 After you finish this last puzzle:
 It has spoilers for this last puzzle in a directory named SPOILERS.
 https://github.com/bgwirema/Present
-This is the fun code used to make all the images, and some solution code I used to check the puzzled.
+This is the fun code used to make all the images, and some solution code I used to check the puzzles.
 
