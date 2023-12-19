@@ -1,0 +1,18 @@
+Happy Birthday!
+
+Welcome to the challenge!
+It consists of a series of file bins.
+Each one has a picture of Pi with a hidden flag that will take you to the next file bin.
+
+https://filebin.net/[FLAG]
+
+The final file bin has a present in it :)
+
+
+General tips:
+The length of the flags may vary by a few characters.
+There should be something obvious when you find the flag.
+There's normally not a way to ctr-f the flag.
+Some of the methods are my own concoction, python coding is helpful.
+Some of the methods build off previous puzzles.
+If you get stuck the URLs are hints / names for the puzzles :)
